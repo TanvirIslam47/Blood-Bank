@@ -6,7 +6,7 @@
     android:layout_height="wrap_content"
     android:background="@drawable/splashlogo"
     android:layout_gravity="center"
-    android:layout_margin="60dp"
+    android:layout_margin="80dp"
     tools:context=".SplashScreen">
 
 </LinearLayout>
